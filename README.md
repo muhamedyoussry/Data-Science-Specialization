@@ -8,7 +8,7 @@ Introduction to Data Science in Python (course 1), Applied Plotting, Charting & 
 
 <p>&nbsp;</p>
 
-## [Course no.1 : Introduction to Data Science in Python](https://github.com/muhamedyoussry/Applied-Data-Science-with-Python-Specialization/tree/main/Course%201%20_%20Introduction%20to%20Data%20Science%20in%20Python)
+## [Course no.1 : Introduction to Data Science in Python](https://github.com/muhamedyoussry/Data-Science-Specialization-/tree/main/Course%20no.1%20%20Introduction%20to%20Data%20Science%20in%20Python)
 
 > About this Course
 
