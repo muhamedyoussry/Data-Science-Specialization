@@ -55,7 +55,7 @@ Course 2 of 5 in the [Applied Data Science with Python Specialization](https://w
 
 
 <p align="center">
-    <img src="./python_datascience_thumbnail_visualization.png" width="520" />
+    <img src="./python_datascience_thumbnail_visualization.png" width="530" />
 </p>
 
 <p>&nbsp;</p>
