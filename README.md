@@ -7,6 +7,9 @@ Introduction to Data Science in Python (course 1), Applied Plotting, Charting & 
 ![University of Michigan](https://umich.edu/skins/um2013/media/images/U-M-logo-preview.jpg)
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+
+---
 
 ## [Course no.1 : Introduction to Data Science in Python](https://github.com/muhamedyoussry/Data-Science-Specialization-/tree/main/Course%20no.1%20%20Introduction%20to%20Data%20Science%20in%20Python)
 
@@ -29,3 +32,32 @@ Course 1 of 5 in the [Applied Data Science with Python Specialization](https://w
 </p>
 
 <p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+---
+
+
+## [Course no.2 : Applied Plotting, Charting & Data Representation in Python](https://github.com/muhamedyoussry/Data-Science-Specialization/tree/main/Course%20no.2%20Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python)
+
+> About this Course
+
+This course will introduce the learner to information visualization basics, with a focus on reporting and charting using the matplotlib library. The course will start with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. The second week will focus on the technology used to make visualizations in python, matplotlib, and introduce users to best practices when creating basic charts and how to realize design decisions in the framework. The third week will be a tutorial of functionality available in matplotlib, and demonstrate a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem. The course will end with a discussion of other forms of structuring and visualizing data. 
+
+This course should be taken after Introduction to Data Science in Python and before the remainder of the Applied Data Science with Python courses: Applied Machine Learning in Python, Applied Text Mining in Python, and Applied Social Network Analysis in Python.
+
+> Basic info
+
+Course 2 of 5 in the [Applied Data Science with Python Specialization](https://www.coursera.org/learn/python-plotting) 
+
+
+> Level
+
+
+<p align="center">
+    <img src="./python_datascience_thumbnail_visualization.png" width="520" />
+</p>
+
+<p>&nbsp;</p>
+
+---
